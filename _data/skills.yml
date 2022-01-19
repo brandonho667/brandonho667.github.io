@@ -23,10 +23,10 @@ tools:
   - item: Jupyter
   - item: Quartus
 
-# design:
-#   - item: Sketch
-#   - item: InDesign
-#   - item: InVision
-#   - item: Prototyping
-#   - item: Wireframing
-#   - item: User Testing
+other:
+  - item: Sketch
+  - item: InDesign
+  - item: InVision
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing
