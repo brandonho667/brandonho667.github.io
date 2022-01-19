@@ -1,44 +1,24 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
-  position: Engineer
+- company: Garmin
+  url: https://www.garmin.com/
+  time: Starting June 2022
+  position: Software Engineering Intern
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+- company: InflammaSense
+  url: https://inflammasense.com/
+  time: Jan 2021 - Present
+  position: Software Developer and Research Associate
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
+- company: Yonder Dynamics
+  url: https://yonderdynamics.org/#/
+  time: Oct 2020 - Present
   position: UI Engineer Co-op
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
+- company: Bae Lab
+  url: https://jbae.eng.ucsd.edu/home
+  time: Sep 2020 - Present
+  position: Undergraduate Research Assistant
 
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
-
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
-  position: President & Web Chair
-
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
+- company: Coding for Impact
+  url: https://www.codingforimpact.org/
+  time: July 2020 - Present
+  position: Web Developer

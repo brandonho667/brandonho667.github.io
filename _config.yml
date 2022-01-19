@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Brandon Ho
+title: Brandon Ho | Software Engineer
+description: a Computer Engineering Student at University of California, San Diego
+url: https://brandonho667.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: b1ho@ucsd.edu
+cover: https://brandonho667.github.io/img/og.png
+logo: https://brandonho667.github.io/img/emojis/technologist.png
+resume: https://brandonho667.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:b1ho@gmail.com
   - title: twitter
     url: https://twitter.com/bchiang7
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/bbho667
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/brandonho667
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/bbho
 
 # Build settings
 markdown: kramdown
