@@ -11,8 +11,7 @@ frameworks:
   - item: PyTorch
   - item: ZeroMQ
   - item: Tensorflow
-  - item: React
-  - item: Node
+  - item: React/Node
   - item: Wordpress
 
 tools:
