@@ -12,7 +12,7 @@ frameworks:
   - item: ZeroMQ
   - item: Tensorflow
   - item: React/Node
-  - item: Wordpress
+  - item: Android Studio
 
 tools:
   - item: Bash
@@ -20,7 +20,7 @@ tools:
   - item: AWS
   - item: Linux
   - item: Jupyter
-  - item: Quartus
+  - item: ZenHub
 
 # other:
 #   - item: Sketch

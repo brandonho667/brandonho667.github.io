@@ -1,7 +1,16 @@
+- name: SemPro Model
+  url: https://github.com/brandonho667/sempro-model
+  code: https://github.com/brandonho667/sempro-model
+  description: Machine learning project which trains a computational model from SEM and mechanical properties. Applies ExplainableAI to reveal underlying structure-property relationships.
+  used:
+   - thing: PyTorch
+   - thing: YoloV5
+   - thing: GradCAM
+
 - name: SemPro Scraper
   url: https://github.com/brandonho667/sempro-scraper
   code: https://github.com/brandonho667/sempro-scraper
-  description: Web scraping and machine learning project which scrapes hydrogel SEM and mechanical properties from research articles to train a computational model.
+  description: Web scraping project which scrapes hydrogel SEM and mechanical properties from research articles to train a computational model.
   used:
    - thing: Python
    - thing: Selenium
