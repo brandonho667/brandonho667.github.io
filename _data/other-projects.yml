@@ -1,3 +1,12 @@
+- name: Autow
+  url: https://github.com/brandonho667/autow
+  code: https://github.com/brandonho667/autow
+  description: Autonomous tow hitch lineup to trailer using AR tag detection and pose estimation
+  used:
+   - thing: ROS2 (Python)
+   - thing: OpenCV
+   - thing: Docker 
+
 - name: SemPro Model
   url: https://github.com/brandonho667/sempro-model
   code: https://github.com/brandonho667/sempro-model

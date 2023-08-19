@@ -1,21 +1,26 @@
-- company: Garmin
-  url: https://www.garmin.com/
-  time: June 2022 - Present
-  position: Software Engineering Intern
-
-- company: InflammaSense
-  url: https://inflammasense.com/
-  time: Jan 2021 - Present
-  position: Software Developer and Research Associate
+- company: Relativity Space
+  url: https://www.relativityspace.com/
+  time: June 2023 - Present
+  position: Robotics Software Engineering Intern
 
 - company: Yonder Dynamics
   url: https://yonderdynamics.org/#/
   time: Oct 2020 - Present
-  position: AI Software Developer
+  position: Software Lead
+
+- company: Garmin
+  url: https://www.garmin.com/
+  time: June 2022 - December 2022
+  position: Software Engineering Intern
+
+- company: InflammaSense
+  url: https://inflammasense.com/
+  time: Jan 2021 - September 2022
+  position: Software Developer and Research Associate
 
 - company: Bae Lab
   url: https://jbae.eng.ucsd.edu/home
-  time: Sep 2020 - Present
+  time: Sep 2020 - Aug 2023
   position: Undergraduate Research Assistant
 
 - company: Coding for Impact

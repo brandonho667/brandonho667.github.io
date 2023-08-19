@@ -2,12 +2,14 @@ languages:
   - item: Python
   - item: C++
   - item: Java
+  - item: TypeScript
   - item: JavaScript
   - item: HTML/CSS
-  - item: SQL
+  - item: SQL/PostgreSQL
 
 frameworks:
-  - item: ROS
+  - item: ROS + ROS2
+  - item: RTOS (Xenomai)
   - item: PyTorch
   - item: ZeroMQ
   - item: Tensorflow
